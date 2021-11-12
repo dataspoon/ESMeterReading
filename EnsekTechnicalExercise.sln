@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsekTechnicalExercise.Api", "EnsekTechnicalExercise\EnsekTechnicalExercise.Api.csproj", "{10E4DFF7-C6ED-4AEB-9FF9-458E492B43BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsekTechnicalExercise.Tests", "EnsekTechnicalExcercise.Tests\EnsekTechnicalExercise.Tests.csproj", "{610DD8CE-1464-4F8C-AF65-55D68A9FC128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E4DFF7-C6ED-4AEB-9FF9-458E492B43BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E4DFF7-C6ED-4AEB-9FF9-458E492B43BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E4DFF7-C6ED-4AEB-9FF9-458E492B43BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E4DFF7-C6ED-4AEB-9FF9-458E492B43BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610DD8CE-1464-4F8C-AF65-55D68A9FC128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610DD8CE-1464-4F8C-AF65-55D68A9FC128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610DD8CE-1464-4F8C-AF65-55D68A9FC128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610DD8CE-1464-4F8C-AF65-55D68A9FC128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD33BF9-46D1-401B-B7DD-61EF10D9F09C}
+	EndGlobalSection
+EndGlobal
